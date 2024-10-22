@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Rengadurai</h1>
-<h3 align="center">A passionate software developer based in Atlanta</h3>
+<h3 align="center">Passionate full-stack developer based in metropolitan Atlanta area.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-rengadurai&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-rengadurai" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [[PORTFOLIO WEBSITE COMING SOON]]([PORTFOLIO WEBSITE COMING SOON])
+- 👨‍💻 All of my projects are available at [N/A]
 
 - 💬 Ask me about **Web Development and Graphic Design**
 
 - 📫 How to reach me **roshan.rengadurai@gmail.com**
 
-- ⚡ Fun fact **I like Indie games and seeing how they’re developed.**
+- ⚡ Fun fact: **I like playing Indie games in my freetime :).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
