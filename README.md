@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Web Development and Graphic Design**
 
-- 📫 How to reach me **roshan.rengadurai@gmail.com**
-
 - ⚡ Fun fact: **I like playing Indie games in my freetime :).**
 
 <h3 align="left">Connect with me:</h3>
