@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [N/A]
 
-- 💬 Ask me about **Web Development and Graphic Design**
+- 💬 Ask me about **Full-Stack Dev, Game Dev, + Engineering**
 
 - ⚡ Fun fact: **I like playing Indie games in my freetime :).**
 
