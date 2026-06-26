@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [N/A]
 
-- 💬 Ask me about **Full-Stack Dev, Game Dev, + Engineering**
+- 💬 Ask me about **Full-Stack Dev + Math**
 
-- ⚡ Fun fact: **I like playing Indie games in my freetime :).**
+- ⚡ Fun fact: **I play MCCI :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
