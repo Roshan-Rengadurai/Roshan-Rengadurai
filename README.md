@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Full-Stack Dev + Math**
 
-- ⚡ Fun fact: **I play MCCI :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
