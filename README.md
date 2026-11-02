@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [N/A]
+- 👨‍💻 All of my projects are available at my github page and roshanrengadurai.dev
 
 - 💬 Ask me about **Physics + Math**
 
